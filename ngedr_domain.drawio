@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T09:36:32.837Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="yyqv7BmMH4reD6sHbGWt" version="21.0.6" type="github"><diagram name="第 1 页" id="1UPqQfOd0NQzTnRcW2cJ">zZhdb5swFIZ/jS9TAQbHXEJCt0md1KkXay8dMIGNxKlj8tFfv2MwAZI067Q0iRQpPu/x53mObQDh0WzzRbJF9l0kvECOlWwQHiPHsbEzhD+tbGtl6NJamMo8MZVa4Sl/40a0jFrmCV/2KiohCpUv+mIs5nMeq57GpBTrfrVUFP1RF2zKD4SnmBWH6s88UVmt0mZZWv/K82nWjGwTv/bMWFPZrGSZsUSsOxKOEB5JIVRdmm1GvNDBa+JSt7t/x7ubmORz9ZEGbz9K7/HbY56mr4OHXK0Uzl4HuO5lxYrSLBg5pID+wlRAtzBrtTWhIK+laByDZQUqgAo2WQDssPVDaWr+q44mOyHyEbWQH6BoiHwXBRRFHgrGyLd0wb/XP9MIljHZ7wi0elKN7PTm50hRzhOuV2uDe53lij8tWKy9a0hO0DI1K4w7zYtiJAohq7Y4pTGPY9CXSorfvOOZUM/1rN14Ky4V37yLwN6BhR3BxYwruYUqpgE1qWD2gm/MdZtYDjZa1kmqphkzuTzdddzihoIh/g/03YvS9xANNOKIIopROL469IRxmh6FTmLKJ+l5oGNyY9S9i1InKLBQWG318F6Db/e8jwIHUXL9PPA4TdxjeUCdCSbkPHlA3BvLA/KJeQBsfb+CDEc9bPwRilydBXACmEKVGj5BdPhRxLAkuPX53/GeAZaN+7B2t3iHlu1ckpZ/GI8EnlSMKaTKxFTMWRG1atiqD0IsTHR+caW25kGLlUr0YxeXcrXbRnyTq2coD6w7y6JGeAHBuiPGGuuAWY2x7RiPXOawdC6NVs9fT/o0E1ijKGXMT8TCPHwpJqdcnahHjzOWvGAqX/XncXZgtn0ZYhA9uX2uoZBhI7w0JLTRQqqsbdfax3Q0Aewee+8k+ytwtq1rgh5+5jkKl2WE/Kg6NeHWxLd4WLr7hyW+9mFJ30WyXLD5fyKhKIQbzdX3VxiYlxdd6LKph7kBNniPDXavzaZ5s/8sONSuXjE9TYbSW2TiXZAJmO0nhsrX+VCDoz8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-14T09:38:39.205Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="htpPzxAC3dhLFcQ4dbAt" version="21.0.6" type="github">
+  <diagram name="第 1 页" id="1UPqQfOd0NQzTnRcW2cJ">
+    <mxGraphModel dx="1327" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zQu5PIPiffq-Litvt3hq-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;通用子域&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="80" y="90" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zQu5PIPiffq-Litvt3hq-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;功能域&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="360" y="90" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zQu5PIPiffq-Litvt3hq-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;核心子领域&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="640" y="90" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zQu5PIPiffq-Litvt3hq-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;限界上下文&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zQu5PIPiffq-Litvt3hq-9" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=-0.008;exitY=0.6;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="zQu5PIPiffq-Litvt3hq-7" target="zQu5PIPiffq-Litvt3hq-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zQu5PIPiffq-Litvt3hq-11" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.667;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="zQu5PIPiffq-Litvt3hq-7" target="zQu5PIPiffq-Litvt3hq-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zQu5PIPiffq-Litvt3hq-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;实体&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zQu5PIPiffq-Litvt3hq-8" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;资源库&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zQu5PIPiffq-Litvt3hq-10" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;聚合&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C2MKzLzOxBQ5kkaVRscL-1" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;问题： 对象重复&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="20" y="670" width="300" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
