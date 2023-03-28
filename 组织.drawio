@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T04:47:46.661Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="T8JMEwcjlfX2B_NN8fa_" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-28T05:01:48.198Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="uvqMdrWnFeAmv91OM6gA" version="21.0.10" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2638" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1853" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;自适应产品部--后端&lt;/span&gt;" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;自适应产品部--后端&lt;/span&gt;" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;align=left;" parent="1" vertex="1">
           <mxGeometry x="-170" y="40" width="1060" height="770" as="geometry">
             <mxRectangle x="-50" y="40" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -18,7 +18,7 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="吴阳&lt;br&gt;" placeholders="1" id="dNxyNK7c78bLwvsdeMH5-14">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1" collapsed="1">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
             <mxGeometry x="184" y="180" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
@@ -26,17 +26,17 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="韩湘" placeholders="1" id="dNxyNK7c78bLwvsdeMH5-16">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1" collapsed="1">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
             <mxGeometry x="384" y="180" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="P8AsUJd5_cXzrDXwwjN4-2" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-14" target="P8AsUJd5_cXzrDXwwjN4-3" edge="1" visible="0">
+        <mxCell id="P8AsUJd5_cXzrDXwwjN4-2" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-14" target="P8AsUJd5_cXzrDXwwjN4-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="160" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="优势：" placeholders="1" id="P8AsUJd5_cXzrDXwwjN4-3">
-          <mxCell style="whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;align=left;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1" visible="0" collapsed="1">
+        <UserObject label="CBB Agent 资产、CBB logminer、安装部署、CI/CD集成、代码规范、Nat-VNC" placeholders="1" id="P8AsUJd5_cXzrDXwwjN4-3">
+          <mxCell style="whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;align=left;verticalAlign=top;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1" collapsed="1">
             <mxGeometry x="189" y="290" width="170" height="140" as="geometry" />
           </mxCell>
         </UserObject>
@@ -79,26 +79,26 @@
             <mxGeometry x="490" y="30" width="180" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="P8AsUJd5_cXzrDXwwjN4-4" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-16" target="P8AsUJd5_cXzrDXwwjN4-5" edge="1" visible="0">
+        <mxCell id="P8AsUJd5_cXzrDXwwjN4-4" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-16" target="P8AsUJd5_cXzrDXwwjN4-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="190" y="160" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="" placeholders="1" id="P8AsUJd5_cXzrDXwwjN4-5">
-          <mxCell style="whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1" visible="0">
+        <UserObject label="终端管理、防火墙对接、高级部署、CBB Agent 任务、service_probe、终端任务" placeholders="1" id="P8AsUJd5_cXzrDXwwjN4-5">
+          <mxCell style="whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;align=left;verticalAlign=top;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
             <mxGeometry x="384" y="290" width="180" height="140" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="谢崇彬" placeholders="1" id="P8AsUJd5_cXzrDXwwjN4-17">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-11-2-512.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1" collapsed="1">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-11-2-512.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
             <mxGeometry x="590" y="180" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="0Z5E34LWCH2BCrxLQeH4-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" source="P8AsUJd5_cXzrDXwwjN4-17" target="0Z5E34LWCH2BCrxLQeH4-18" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="0Z5E34LWCH2BCrxLQeH4-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="P8AsUJd5_cXzrDXwwjN4-17" target="0Z5E34LWCH2BCrxLQeH4-18" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="" placeholders="1" id="0Z5E34LWCH2BCrxLQeH4-18">
-          <mxCell style="" vertex="1" collapsed="1" visible="0" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <UserObject label="高级部署、系统日志、&#xa;终端发现、CBB Agent 任务、&#xa;service_probe、终端任务" placeholders="1" id="0Z5E34LWCH2BCrxLQeH4-18">
+          <mxCell style="align=left;fontStyle=0;verticalAlign=top;" vertex="1" collapsed="1" parent="dNxyNK7c78bLwvsdeMH5-11">
             <mxGeometry x="587" y="290" width="186" height="140" as="geometry" />
           </mxCell>
         </UserObject>
