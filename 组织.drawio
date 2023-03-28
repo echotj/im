@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T15:18:17.717Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="cLQkx9nmSm3pDnJaAQMC" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-28T15:22:49.834Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="b2-RXPbmHK-zL4f3LhSZ" version="21.1.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1933" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QDGvHehOKybcKLlj2q08-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QDGvHehOKybcKLlj2q08-12" value="&#xa;&lt;b style=&quot;border-color: var(--border-color); color: rgb(255, 255, 255); font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;CBB Agent&lt;/b&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-510" y="1400" width="990" height="480" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;                    &lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;      &lt;/span&gt;自适应产品部--后端&lt;/span&gt;" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;align=left;" parent="1" vertex="1">
@@ -231,6 +231,24 @@
         </UserObject>
         <mxCell id="QDGvHehOKybcKLlj2q08-13" value="NgEDR微服务&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-490" y="1410" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QDGvHehOKybcKLlj2q08-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;align=center;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1480" width="300" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="QDGvHehOKybcKLlj2q08-15" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Policy&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QDGvHehOKybcKLlj2q08-16" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Task&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="294" y="1510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QDGvHehOKybcKLlj2q08-17" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;CBB Agent&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="1430" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QDGvHehOKybcKLlj2q08-18" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Agent&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QDGvHehOKybcKLlj2q08-19" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Assets&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="299" y="1610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
