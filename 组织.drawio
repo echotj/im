@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T05:07:06.634Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="qj1zFiORPY649WP713vR" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-28T05:41:36.138Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="8D8x4z0wsP3jW3QWuefa" version="21.0.10" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1853" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -147,7 +147,7 @@
             <mxGeometry x="790" y="290" width="186" height="140" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="统计分析、报表、审计、升级、" placeholders="1" id="0Z5E34LWCH2BCrxLQeH4-62">
+        <UserObject label="统计分析、报表、审计、升级、&#xa;CBB Agent" placeholders="1" id="0Z5E34LWCH2BCrxLQeH4-62">
           <mxCell style="align=left;verticalAlign=top;" vertex="1" collapsed="1" parent="dNxyNK7c78bLwvsdeMH5-11">
             <mxGeometry x="181" y="570" width="186" height="140" as="geometry" />
           </mxCell>
@@ -157,12 +157,12 @@
             <mxGeometry x="381" y="570" width="186" height="140" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="BD 系统" placeholders="1" id="0Z5E34LWCH2BCrxLQeH4-65">
+        <UserObject label="BD 系统、样本上传、&#xa;查询优化、病毒引擎扫描" placeholders="1" id="0Z5E34LWCH2BCrxLQeH4-65">
           <mxCell style="align=left;verticalAlign=top;" vertex="1" collapsed="1" parent="dNxyNK7c78bLwvsdeMH5-11">
             <mxGeometry x="581" y="570" width="186" height="140" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="BD系统、安全基线" placeholders="1" id="0Z5E34LWCH2BCrxLQeH4-66">
+        <UserObject label="BD系统、yara插件扫描、&#xa;样本解压缩、&#xa;安全基线" placeholders="1" id="0Z5E34LWCH2BCrxLQeH4-66">
           <mxCell style="align=left;verticalAlign=top;" vertex="1" collapsed="1" parent="dNxyNK7c78bLwvsdeMH5-11">
             <mxGeometry x="787" y="570" width="186" height="140" as="geometry" />
           </mxCell>
