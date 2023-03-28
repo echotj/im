@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T05:44:50.591Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="xAlcflcc5Jt0BFA_Ngy7" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-28T05:45:21.777Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="yrZZb57Y6R1Tg3-El0o2" version="21.0.10" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1888" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -168,7 +168,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="0Z5E34LWCH2BCrxLQeH4-9" value="自适应产品部--前端" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="850" width="1060" height="290" as="geometry" />
+          <mxGeometry x="-170" y="850" width="1060" height="450" as="geometry" />
         </mxCell>
         <UserObject label="何涛江" placeholders="1" id="0Z5E34LWCH2BCrxLQeH4-10">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-8-2-256.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="0Z5E34LWCH2BCrxLQeH4-9">
@@ -197,6 +197,21 @@
         <UserObject label="邹振麟" placeholders="1" id="0Z5E34LWCH2BCrxLQeH4-16">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512//users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="0Z5E34LWCH2BCrxLQeH4-9">
             <mxGeometry x="670" y="170" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="审计、终端日志、同步工具、&#xa;日志外发、特征库、benthos、" placeholders="1" id="0Z5E34LWCH2BCrxLQeH4-72">
+          <mxCell style="align=left;verticalAlign=top;" vertex="1" collapsed="1" parent="0Z5E34LWCH2BCrxLQeH4-9">
+            <mxGeometry x="217" y="290" width="186" height="140" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="审计、终端日志、同步工具、&#xa;日志外发、特征库、benthos、" placeholders="1" id="0Z5E34LWCH2BCrxLQeH4-73">
+          <mxCell style="align=left;verticalAlign=top;" vertex="1" collapsed="1" parent="0Z5E34LWCH2BCrxLQeH4-9">
+            <mxGeometry x="434" y="290" width="186" height="140" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="审计、终端日志、同步工具、&#xa;日志外发、特征库、benthos、" placeholders="1" id="0Z5E34LWCH2BCrxLQeH4-74">
+          <mxCell style="align=left;verticalAlign=top;" vertex="1" collapsed="1" parent="0Z5E34LWCH2BCrxLQeH4-9">
+            <mxGeometry x="664" y="290" width="186" height="140" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
