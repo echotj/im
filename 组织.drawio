@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T07:32:55.813Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="oaznaPR7uPTFawPYPK7w" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-29T07:42:55.147Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="DE5ibUfwPTukrtainJiI" version="21.1.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1946" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -369,8 +369,8 @@
         <mxCell id="QDGvHehOKybcKLlj2q08-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QDGvHehOKybcKLlj2q08-95" target="QDGvHehOKybcKLlj2q08-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QDGvHehOKybcKLlj2q08-95" value="事件、响应、统计分析。" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="1500" width="140" height="60" as="geometry" />
+        <mxCell id="QDGvHehOKybcKLlj2q08-95" value="事件、响应、统计分析。告警（任务和策略透传都走这里，实际处理在CBB）" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="1500" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QDGvHehOKybcKLlj2q08-96" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;AgentSvc&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="-300" y="1595" width="120" height="60" as="geometry" />
@@ -378,7 +378,7 @@
         <mxCell id="QDGvHehOKybcKLlj2q08-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QDGvHehOKybcKLlj2q08-97" target="QDGvHehOKybcKLlj2q08-96">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QDGvHehOKybcKLlj2q08-97" value="agent 客户端交互" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="QDGvHehOKybcKLlj2q08-97" value="agent 客户端交互、补丁管理、" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="-130" y="1594" width="180" height="36" as="geometry" />
         </mxCell>
         <mxCell id="QDGvHehOKybcKLlj2q08-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QDGvHehOKybcKLlj2q08-98" target="QDGvHehOKybcKLlj2q08-104">
@@ -402,8 +402,11 @@
         <mxCell id="QDGvHehOKybcKLlj2q08-106" value="升级包、同步、灰度、下载（取消认证）" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="-670" y="1603" width="140" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="QDGvHehOKybcKLlj2q08-108" value="消费日志、rpc" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="-149" y="1790" width="149" height="60" as="geometry" />
+        <mxCell id="QDGvHehOKybcKLlj2q08-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="QDGvHehOKybcKLlj2q08-108" target="QDGvHehOKybcKLlj2q08-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QDGvHehOKybcKLlj2q08-108" value="透传、对接补丁服务器（同步补丁信息、就edr 的补丁管理、终端发现、软件管理、USB管理、动态认证）" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-149" y="1740" width="249" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QDGvHehOKybcKLlj2q08-109" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;ManagerSvc&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="-380" y="1730" width="120" height="60" as="geometry" />
