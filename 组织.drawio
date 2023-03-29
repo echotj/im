@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T04:09:08.222Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="V3sJfUpQBlCeMq3sGMFl" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-29T05:42:32.866Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="dSXSrM1tN7i6g3Izmo21" version="21.1.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1981" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -173,9 +173,9 @@
             <mxGeometry x="787" y="570" width="186" height="140" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="0Z5E34LWCH2BCrxLQeH4-9" value="自适应产品部--前端" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-520" y="850" width="1060" height="450" as="geometry">
-            <mxRectangle x="-520" y="850" width="180" height="30" as="alternateBounds" />
+        <mxCell id="0Z5E34LWCH2BCrxLQeH4-9" value="自适应产品部--前端" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;fontSize=16;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-520" y="850" width="180" height="30" as="geometry">
+            <mxRectangle x="-520" y="850" width="1060" height="450" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <UserObject label="何涛江" placeholders="1" id="0Z5E34LWCH2BCrxLQeH4-10">
