@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T10:49:11.919Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="u7rjp-3syKHHZGETVIN7" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-29T10:53:34.913Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="_3-rHJaL-wWUzsjYBWFj" version="21.1.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1742" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2224" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -327,8 +327,8 @@
         <mxCell id="QDGvHehOKybcKLlj2q08-93" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;1注重基础功能稳定；&lt;br&gt;2、按时发布版本。 代码规范、单元测试。保证提测质量、&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1817" y="220" width="250" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="QDGvHehOKybcKLlj2q08-94" value="存在的问题：&amp;nbsp;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="2100" width="120" height="60" as="geometry" />
+        <mxCell id="QDGvHehOKybcKLlj2q08-94" value="存在的问题：&amp;nbsp;&lt;br&gt;&lt;div&gt;1、路由自动加权限&lt;/div&gt;&lt;div&gt;策略生效条件 cbb 需求&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;终端发现、软件、移动存储设备、不属于资产&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;cbb需求：&amp;nbsp;&lt;/div&gt;&lt;div&gt;	策略需要支持备份和恢复（终端、部门、标签）&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;策略生效条件 cbb 需求&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;部门的导入导出，规则，部门移动。&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;终端信息的导出&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;任务详情导出&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;客户端定制（UI定制），预安装下发。服务端支持配置&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;清理N天离线终端、离线告警发消息队列&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;/div&gt;&lt;div&gt;待定：&lt;/div&gt;&lt;div&gt;客户端异常日志上报 ，资源告警走消息，系统资源告警配置不放策略里面，放系统，邓程&amp;nbsp;&lt;/div&gt;&lt;div&gt;微服务仓库分开&lt;/div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1980" width="980" height="330" as="geometry" />
         </mxCell>
         <mxCell id="QDGvHehOKybcKLlj2q08-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QDGvHehOKybcKLlj2q08-95" target="QDGvHehOKybcKLlj2q08-26">
           <mxGeometry relative="1" as="geometry" />
@@ -440,6 +440,9 @@
         </mxCell>
         <mxCell id="QDGvHehOKybcKLlj2q08-137" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;i&gt;曹迅&lt;/i&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="-85" y="2780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QDGvHehOKybcKLlj2q08-138" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;会议纪要&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="811" y="1950" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
