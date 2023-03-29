@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T01:59:17.238Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="DhDjDW-xQCaBzX3pl7ef" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-29T03:18:58.688Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ymxFf3iXT4Oz_72v5PB5" version="21.1.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="3240" dy="1462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1981" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -353,6 +353,12 @@
         </mxCell>
         <mxCell id="QDGvHehOKybcKLlj2q08-75" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;1、连接地址显示docker0地址（nat 网络环境或者其他情况）&lt;br&gt;2、消息组件Nats性能测试以及与其他消息组件分析&lt;br&gt;3、go-zero框架技术分享会&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
           <mxGeometry x="-430" y="3170" width="700" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="QDGvHehOKybcKLlj2q08-80" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;1、代码重复、对象定义重复、返回给前端定义不明确&lt;br&gt;2、&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="330" y="2140" width="680" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="QDGvHehOKybcKLlj2q08-81" value="解决问题：" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="345" y="2110" width="176" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
