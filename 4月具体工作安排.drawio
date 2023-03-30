@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T15:23:41.540Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="kJmPb_JOuTwhefs0tSn9" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-30T15:25:37.523Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="yZiHhPKBM0ZBSXxcC_0_" version="21.1.1" type="github">
   <diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
-    <mxGraphModel dx="6509" dy="2297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5551" dy="1787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -588,6 +588,60 @@
         </mxCell>
         <mxCell id="_DeY0FhmmH7j__y14cy1-193" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;4月组织目标：&lt;br&gt;1、DLP临时版4月底之前外发，linux客户端用新拦截，服务端加入OCR&lt;br&gt;2、BD高级查询上线可用，yara任务初步跑通。&lt;br&gt;3、ngEDR按领域驱动区分子领域，原型、微服务设计完成。&lt;br&gt;4、EDR解决故障版本4月中旬外发。&lt;br&gt;5、EDRwindows进程版和国产版本4月底外发。&lt;br&gt;6、linux引擎完善溯源、交互接口、日志整理，测试低内核audit使用。&lt;br&gt;7、windows新内核的学习与使用，完成功能demo，自研漏洞补丁。&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1300" y="160" width="560" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="_DeY0FhmmH7j__y14cy1-194" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-1330" y="1842.5" width="620" height="285" as="geometry" />
+        </mxCell>
+        <mxCell id="_DeY0FhmmH7j__y14cy1-195" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;4月组织目标：&lt;br&gt;1、DLP临时版4月底之前外发，linux客户端用新拦截，服务端加入OCR&lt;br&gt;2、BD高级查询上线可用，yara任务初步跑通。&lt;br&gt;3、ngEDR按领域驱动区分子领域，原型、微服务设计完成。&lt;br&gt;4、EDR解决故障版本4月中旬外发。&lt;br&gt;5、EDRwindows进程版和国产版本4月底外发。&lt;br&gt;6、linux引擎完善溯源、交互接口、日志整理，测试低内核audit使用。&lt;br&gt;7、windows新内核的学习与使用，完成功能demo，自研漏洞补丁。&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1290" y="1902.5" width="560" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="_DeY0FhmmH7j__y14cy1-196" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-1330" y="2670" width="620" height="285" as="geometry" />
+        </mxCell>
+        <mxCell id="_DeY0FhmmH7j__y14cy1-197" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;4月组织目标：&lt;br&gt;1、DLP临时版4月底之前外发，linux客户端用新拦截，服务端加入OCR&lt;br&gt;2、BD高级查询上线可用，yara任务初步跑通。&lt;br&gt;3、ngEDR按领域驱动区分子领域，原型、微服务设计完成。&lt;br&gt;4、EDR解决故障版本4月中旬外发。&lt;br&gt;5、EDRwindows进程版和国产版本4月底外发。&lt;br&gt;6、linux引擎完善溯源、交互接口、日志整理，测试低内核audit使用。&lt;br&gt;7、windows新内核的学习与使用，完成功能demo，自研漏洞补丁。&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1290" y="2730" width="560" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="_DeY0FhmmH7j__y14cy1-198" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-1330" y="3440" width="620" height="285" as="geometry" />
+        </mxCell>
+        <mxCell id="_DeY0FhmmH7j__y14cy1-199" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;4月组织目标：&lt;br&gt;1、DLP临时版4月底之前外发，linux客户端用新拦截，服务端加入OCR&lt;br&gt;2、BD高级查询上线可用，yara任务初步跑通。&lt;br&gt;3、ngEDR按领域驱动区分子领域，原型、微服务设计完成。&lt;br&gt;4、EDR解决故障版本4月中旬外发。&lt;br&gt;5、EDRwindows进程版和国产版本4月底外发。&lt;br&gt;6、linux引擎完善溯源、交互接口、日志整理，测试低内核audit使用。&lt;br&gt;7、windows新内核的学习与使用，完成功能demo，自研漏洞补丁。&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1290" y="3500" width="560" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="_DeY0FhmmH7j__y14cy1-200" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-1330" y="4300" width="620" height="285" as="geometry" />
+        </mxCell>
+        <mxCell id="_DeY0FhmmH7j__y14cy1-201" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;4月组织目标：&lt;br&gt;1、DLP临时版4月底之前外发，linux客户端用新拦截，服务端加入OCR&lt;br&gt;2、BD高级查询上线可用，yara任务初步跑通。&lt;br&gt;3、ngEDR按领域驱动区分子领域，原型、微服务设计完成。&lt;br&gt;4、EDR解决故障版本4月中旬外发。&lt;br&gt;5、EDRwindows进程版和国产版本4月底外发。&lt;br&gt;6、linux引擎完善溯源、交互接口、日志整理，测试低内核audit使用。&lt;br&gt;7、windows新内核的学习与使用，完成功能demo，自研漏洞补丁。&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1290" y="4360" width="560" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="_DeY0FhmmH7j__y14cy1-202" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-1330" y="5210" width="620" height="285" as="geometry" />
+        </mxCell>
+        <mxCell id="_DeY0FhmmH7j__y14cy1-203" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;4月组织目标：&lt;br&gt;1、DLP临时版4月底之前外发，linux客户端用新拦截，服务端加入OCR&lt;br&gt;2、BD高级查询上线可用，yara任务初步跑通。&lt;br&gt;3、ngEDR按领域驱动区分子领域，原型、微服务设计完成。&lt;br&gt;4、EDR解决故障版本4月中旬外发。&lt;br&gt;5、EDRwindows进程版和国产版本4月底外发。&lt;br&gt;6、linux引擎完善溯源、交互接口、日志整理，测试低内核audit使用。&lt;br&gt;7、windows新内核的学习与使用，完成功能demo，自研漏洞补丁。&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1290" y="5270" width="560" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="_DeY0FhmmH7j__y14cy1-204" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-1330" y="6102.5" width="620" height="285" as="geometry" />
+        </mxCell>
+        <mxCell id="_DeY0FhmmH7j__y14cy1-205" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;4月组织目标：&lt;br&gt;1、DLP临时版4月底之前外发，linux客户端用新拦截，服务端加入OCR&lt;br&gt;2、BD高级查询上线可用，yara任务初步跑通。&lt;br&gt;3、ngEDR按领域驱动区分子领域，原型、微服务设计完成。&lt;br&gt;4、EDR解决故障版本4月中旬外发。&lt;br&gt;5、EDRwindows进程版和国产版本4月底外发。&lt;br&gt;6、linux引擎完善溯源、交互接口、日志整理，测试低内核audit使用。&lt;br&gt;7、windows新内核的学习与使用，完成功能demo，自研漏洞补丁。&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1290" y="6162.5" width="560" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="_DeY0FhmmH7j__y14cy1-206" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-1320" y="6920" width="620" height="285" as="geometry" />
+        </mxCell>
+        <mxCell id="_DeY0FhmmH7j__y14cy1-207" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;4月组织目标：&lt;br&gt;1、DLP临时版4月底之前外发，linux客户端用新拦截，服务端加入OCR&lt;br&gt;2、BD高级查询上线可用，yara任务初步跑通。&lt;br&gt;3、ngEDR按领域驱动区分子领域，原型、微服务设计完成。&lt;br&gt;4、EDR解决故障版本4月中旬外发。&lt;br&gt;5、EDRwindows进程版和国产版本4月底外发。&lt;br&gt;6、linux引擎完善溯源、交互接口、日志整理，测试低内核audit使用。&lt;br&gt;7、windows新内核的学习与使用，完成功能demo，自研漏洞补丁。&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1280" y="6980" width="560" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="_DeY0FhmmH7j__y14cy1-208" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-1310" y="7700" width="620" height="285" as="geometry" />
+        </mxCell>
+        <mxCell id="_DeY0FhmmH7j__y14cy1-209" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;4月组织目标：&lt;br&gt;1、DLP临时版4月底之前外发，linux客户端用新拦截，服务端加入OCR&lt;br&gt;2、BD高级查询上线可用，yara任务初步跑通。&lt;br&gt;3、ngEDR按领域驱动区分子领域，原型、微服务设计完成。&lt;br&gt;4、EDR解决故障版本4月中旬外发。&lt;br&gt;5、EDRwindows进程版和国产版本4月底外发。&lt;br&gt;6、linux引擎完善溯源、交互接口、日志整理，测试低内核audit使用。&lt;br&gt;7、windows新内核的学习与使用，完成功能demo，自研漏洞补丁。&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1270" y="7760" width="560" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="_DeY0FhmmH7j__y14cy1-210" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-1310" y="8480" width="620" height="285" as="geometry" />
+        </mxCell>
+        <mxCell id="_DeY0FhmmH7j__y14cy1-211" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;4月组织目标：&lt;br&gt;1、DLP临时版4月底之前外发，linux客户端用新拦截，服务端加入OCR&lt;br&gt;2、BD高级查询上线可用，yara任务初步跑通。&lt;br&gt;3、ngEDR按领域驱动区分子领域，原型、微服务设计完成。&lt;br&gt;4、EDR解决故障版本4月中旬外发。&lt;br&gt;5、EDRwindows进程版和国产版本4月底外发。&lt;br&gt;6、linux引擎完善溯源、交互接口、日志整理，测试低内核audit使用。&lt;br&gt;7、windows新内核的学习与使用，完成功能demo，自研漏洞补丁。&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1270" y="8540" width="560" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
