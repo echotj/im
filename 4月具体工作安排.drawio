@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T15:06:55.671Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="0GPZnqREfUsMdPlJFj99" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-30T15:07:44.976Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ZD6QcapWAlkH4MwGQ8ux" version="21.1.1" type="github">
   <diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
     <mxGraphModel dx="2874" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -163,17 +163,11 @@
         <mxCell id="_DeY0FhmmH7j__y14cy1-43" value="&lt;span style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;谢崇彬&lt;/b&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-162" y="1800" width="347" as="geometry" />
         </mxCell>
-        <mxCell id="_DeY0FhmmH7j__y14cy1-44" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;CBB&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="414" y="2250" width="230" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_DeY0FhmmH7j__y14cy1-45" value="维护代码" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="396" y="2310" width="248" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="_DeY0FhmmH7j__y14cy1-46" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;ConsumerSvc&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
-          <mxGeometry x="273.5" y="2250" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="_DeY0FhmmH7j__y14cy1-47" value="消费消息队列、产品联动（联动设置等、下发，定时。资产变更、离线告警）、rpc" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="246" y="2310" width="146" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_DeY0FhmmH7j__y14cy1-48" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;LicenseSvc&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="273" y="2250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
