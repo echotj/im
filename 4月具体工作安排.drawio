@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T15:07:44.976Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ZD6QcapWAlkH4MwGQ8ux" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-30T15:08:24.243Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="izLmCnvD9x0p2eI7UHpS" version="21.1.1" type="github">
   <diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
-    <mxGraphModel dx="2874" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2357" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -148,7 +148,7 @@
         <mxCell id="_DeY0FhmmH7j__y14cy1-38" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
           <mxGeometry x="826" y="2055" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_DeY0FhmmH7j__y14cy1-39" value="&lt;h1&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;NgEDR（4.3~4.7）4.5放假&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;&quot;&gt;ConsumerSvc：业务处理流程图梳理，大部分的功能，与其他微服务调用关系。&lt;/p&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;p style=&quot;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;开会讨论各自负责的微服务流程图&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p style=&quot;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=left;rounded=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="_DeY0FhmmH7j__y14cy1-39" value="&lt;h1&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;NgEDR（4.3~4.7）4.5放假&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;&quot;&gt;LicenseSvc：业务处理流程图梳理，大部分的功能，与其他微服务调用关系。&lt;/p&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;p style=&quot;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;开会讨论各自负责的微服务流程图&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p style=&quot;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=left;rounded=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="-24" y="2090" width="270" height="210" as="geometry" />
         </mxCell>
         <mxCell id="_DeY0FhmmH7j__y14cy1-40" value="&lt;h1&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 16px;&quot;&gt;NgEDR（4.10~4.14）&lt;/font&gt;&lt;/h1&gt;&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;梳理流程图&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;定义接口等&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=left;rounded=1;" vertex="1" parent="1">
@@ -157,17 +157,17 @@
         <mxCell id="_DeY0FhmmH7j__y14cy1-41" value="&lt;h1&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Comic Sans MS&quot;&gt;NgEDR（4.17~4.21）&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;开始撸代码，有单元测试，有接口文档。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=left;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="501" y="2090" width="215" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="_DeY0FhmmH7j__y14cy1-42" value="&lt;h1&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;NgEDR&lt;font face=&quot;Comic Sans MS&quot;&gt;（4.24~4.28）&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;&lt;ul style=&quot;border-color: var(--border-color);&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;开始撸代码，完成功能的占比是多少？需要量化。&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Comic Sans MS&quot;&gt;CBB：&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; background-color: initial;&quot;&gt;维护，新增需求（任务详情导出&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=left;rounded=1;" vertex="1" parent="1">
+        <mxCell id="_DeY0FhmmH7j__y14cy1-42" value="&lt;h1&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;NgEDR&lt;font face=&quot;Comic Sans MS&quot;&gt;（4.24~4.28）&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;&lt;ul style=&quot;border-color: var(--border-color);&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;开始撸代码，完成功能的占比是多少？需要量化。&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=left;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="728.5" y="1840" width="215" height="190" as="geometry" />
         </mxCell>
         <mxCell id="_DeY0FhmmH7j__y14cy1-43" value="&lt;span style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;谢崇彬&lt;/b&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-162" y="1800" width="347" as="geometry" />
         </mxCell>
         <mxCell id="_DeY0FhmmH7j__y14cy1-47" value="消费消息队列、产品联动（联动设置等、下发，定时。资产变更、离线告警）、rpc" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="246" y="2310" width="146" height="110" as="geometry" />
+          <mxGeometry x="-80" y="1910" width="146" height="110" as="geometry" />
         </mxCell>
         <mxCell id="_DeY0FhmmH7j__y14cy1-48" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;LicenseSvc&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
-          <mxGeometry x="273" y="2250" width="120" height="60" as="geometry" />
+          <mxGeometry x="-53" y="1850" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
