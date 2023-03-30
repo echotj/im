@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T15:13:49.211Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="qug_TRE25e9c2rm2srA5" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-30T15:14:09.666Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Z1t1kXfM5UzlfuDi74Vp" version="21.1.1" type="github">
   <diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
     <mxGraphModel dx="2536" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -367,10 +367,10 @@
         <mxCell id="_DeY0FhmmH7j__y14cy1-115" value="&lt;span style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;唐川成&lt;/b&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-170" y="5170" width="347" as="geometry" />
         </mxCell>
-        <mxCell id="_DeY0FhmmH7j__y14cy1-116" value="事件、响应、统计分析。告警（任务和策略透传都走这里，实际处理在CBB）微隔离、流量可视化、" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="_DeY0FhmmH7j__y14cy1-116" value="威胁情报" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="-131.5" y="5280" width="146" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="_DeY0FhmmH7j__y14cy1-117" value="&lt;b style=&quot;border-color: var(--border-color); font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 16px;&quot;&gt;ERSvc&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+        <mxCell id="_DeY0FhmmH7j__y14cy1-117" value="&lt;b style=&quot;border-color: var(--border-color); font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 16px;&quot;&gt;ThreatsSvc&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="-104.5" y="5220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
