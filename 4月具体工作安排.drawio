@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T06:51:02.986Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Uc1i1cYNg2vM5CaMmK-v" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-31T07:00:21.994Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ZwXy179qqnGZzxDLvaVT" version="21.1.1" type="github">
   <diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
     <mxGraphModel dx="3366" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -648,6 +648,9 @@
         </mxCell>
         <mxCell id="_DeY0FhmmH7j__y14cy1-213" value="BD系统批量标记样本记录tag&lt;br&gt;BD系统高级查询上线可用&lt;br&gt;实时统计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-308" y="5630" width="271" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_DeY0FhmmH7j__y14cy1-214" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;系统管理模块， 安全分析模块&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-315" y="7290" width="225" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
