@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T06:48:03.432Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="5N7g5ntHm5Vbgaie8xOL" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-31T06:48:39.789Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="wsMFDW77IutrTSNT_FGm" version="21.1.1" type="github">
   <diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
     <mxGraphModel dx="3366" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -415,7 +415,7 @@
         <mxCell id="_DeY0FhmmH7j__y14cy1-131" value="&lt;h1&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;NgEDR&lt;font face=&quot;Comic Sans MS&quot;&gt;（4.24~4.28）&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;&lt;ul style=&quot;border-color: var(--border-color);&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;定义接口，开发并单元测试。&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;进度： 20~30%&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=left;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="177" y="6120" width="215" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="_DeY0FhmmH7j__y14cy1-132" value="&lt;span style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;&lt;i&gt;王鹏&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_DeY0FhmmH7j__y14cy1-132" value="&lt;span style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;&lt;i&gt;谢崇彬、王鹏&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-670" y="6080" width="347" as="geometry" />
         </mxCell>
         <mxCell id="_DeY0FhmmH7j__y14cy1-133" value="agent 客户端交互、终端上报的漏洞信息落库、终端日志存入数据调用SystemSvc RPC，日志过滤也放在SystemSvc里面。除了cbb agent 实现的，(不操作数据库)、动态认证、补丁" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
